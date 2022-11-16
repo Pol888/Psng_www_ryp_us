@@ -1,4 +1,4 @@
-  Accounting and Taxes,BGB Advisors,828 West Avenue,Jenkintown + PA 19046,Tel: 267-800-0144,www.bgbadvisors.com
+ Accounting and Taxes,BGB Advisors,828 West Avenue,Jenkintown + PA 19046,Tel: 267-800-0144,www.bgbadvisors.com
  Accounting and Taxes,Chadds Ford Accounting Professionals,2 W Pennsbury Way,Chadds Ford + PA 19317,Tel: 610-388-9700,250 East Street Road,Feasterville + PA 19053,Tel: 215-745-9225,www.cfapgroup.com
  Accounting and Taxes,IVS Financial & Accounting Services - Shcherbik + Irina,1111 Street Road + Suite 312 + Office 10,Southampton + PA 18966,Cell: 267-918-6318
  Accounting and Taxes,Z&S Services â Uchitel + Svetlana; Kuzmenko + Zhanna,9827 Bustleton Avenue + Suite B,Philadelphia + PA 19115,Tel: 215-740-3361,Tel: 267-625-6737
@@ -225,8 +225,7 @@
  Cardiology,Pennsylvania Heart & Vascular Group,9501 Roosevelt Boulevard,Philadelphia + PA 19114,Tel: 215-673-5000
  Cardiology,VitalHeart,1740 South Street + Suite 305,Philadelphia + PA 19146,Tel: 215-772-9800
  Casinos,Parx Casino,2999 Street Road,Bensalem + PA 19020,Tel: 800-426-2537,parxcasino.com
- Check Cashing,Nikki's Check Cashing,9961 Bustleton Avenue,Philadelphia + PA 19115,Tel: 215-464-2323,Bustleton & Philmont
-14000 Bustleton Avenue,Philadelphia + PA 19115,Tel: 215-677-3098
+ Check Cashing,Nikki's Check Cashing,9961 Bustleton Avenue,Philadelphia + PA 19115,Tel: 215-464-2323,Bustleton & Philmont
  Children's Apparel,Denny's Kids,2062 County Line Road,Huntingdon Valley + PA 19006,Tel: 215-953-7533
  Children's Apparel,Elite Repeat Kids Boutique,425 York Road,Jenkintown + PA 19046,Tel: 215-885-1304
  Chiropractic,Avon Chiropractic and Injury Center,10752 Bustleton Avenue,Philadelphia + PA 19116,Tel: 215-613-5929
@@ -390,9 +389,7 @@
  Dry Cleaning & Laundry,Scotchbrook Cleaners,9307 Banes Street,Philadelphia + PA 19115,Tel: 215-464-7199
  Ear, Nose, Throat,Bucks ENT Associates,3 Cornerstone Drive + Suite 703,Langhorne + PA 19047,Tel: 267-689-1000
  Ear, Nose, Throat,Dr. Henry + William,3998 Red Lion Road,Philadelphia + PA 19114,Tel: 215-612-5390
- Ear, Nose, Throat,Ear + Nose and Throat Professional Associates,Einstein Center One
-
- 9880 Bustleton Avenue + Suite 308,Philadelphia + PA 19115,Tel: 215-342-9554,1601 Walnut Street + Suite 1405,Philadelphia + PA 19102,Tel: 215-790-1553
+ Ear, Nose, Throat,Ear + Nose and Throat Professional Associates,Einstein Center One
  Ear, Nose, Throat,Gabay Cosmetic Surgery Center,9500 Roosevelt Boulevard,Philadelphia + PA 19115,Tel: 215-501-7565,www.gabaycosmeticsurgery.com
  Electricians,Electrical Services â Bershadskiy + Dmitriy,Tel: 267-241-7872
  Electricians,Electrical Services â Davydov + Elveg,Tel: 267-475-7890
@@ -467,8 +464,7 @@
  Flowers,Cyber Florist,Tel: 888-689-4473,Tel: 888-558-0535,www.cyber-florist.com
  Flowers,Elina Flowers,Tel: 267-777-1045
  Flowers,Flower & Baloon Creations By Julia,202 Holland Road + Suite 201,Holland + PA 18966,Tel: 215-350-6344
- Flowers,Natalie's Flowers,13023 Bustleton Avenue
-(Pavio's Plaza),Philadelphia + PA 19116,Tel: 215-934-5857,www.nataliesflowers.com
+ Flowers,Natalie's Flowers,13023 Bustleton Avenue
  Flowers,NE Flower Boutique,11702 Bustleton Avenue,Philadelphia + PA 19116,Tel: 215-437-1913,www.neflowerboutique.com
  Flowers,Victoria Flower Company,10869 Bustleton Avenue,Philadelphia + PA 19116,Tel: 215-677-1969,www.victoriaflowercompany.com
  Funeral Homes and Services,Goldsteins' Funeral Associates,310 Second Street Pike,Southampton + PA 18966,Tel: 215-927-5800,6410 North Broad Street,Philadelphlia + PA 19126,Tel: 800-622-6410
@@ -481,9 +477,7 @@
  Funeral Homes and Services,Montefiore Cemetery Company,600 Church Road,Jenkintown + PA 19046,Tel: 215-663-1250
  Funeral Homes and Services,Rosedale Memorial Park,3850 Richlieu Road,Bensalem + PA 19020,Tel: 215-357-0308,www.rosedalememorialpark.com
  Funeral Homes and Services,Sol Levinson & Brothers,8900 Reisterstown Road,Pikesville + MD 21208,Tel: 410-653-8900,Tel: 800-338-1701,Fax: 410-653-6540,www.sollevinson.com
- Funeral Homes and Services,Sunset Memorial Park,333 County Line Road
-Attn: Debra Johnson
-Attn: Jack Natanzon,Feasterville-Trevose + PA 19053,Tel: 215-357-8440
+ Funeral Homes and Services,Sunset Memorial Park,333 County Line Road
  Furniture,Custom Closets by Closets Creation,Tel: 215-872-2109,www.closetscreation.com
  Furniture,Furniture Restoration,Tel: 267-934-9206
  Furniture,Closet Factory (CF17 Management LLC),242 Easton Road,Horsham + PA 19044,Tel: 215-672-4444
@@ -609,8 +603,7 @@ Attn: Jack Natanzon,Feasterville-Trevose + PA 19053,Tel: 215-357-8440
  Home Remodeling and Construction,Construction Group,Tel: 215-715-6329
  Home Remodeling and Construction,Contour Remodeling,Tel: 267-249-8689,Fax: 215-673-3460,www.contourremodeling.com
  Home Remodeling and Construction,Dream Garage Remodeling,Tel: 215-354-6502,www.garagesolutionsphiladelphia.com
- Hospitals,Nazareth Hospital,Tel: 215-335-6000,Roosevelt Boulevard at Pennypack Circle
-2601 Holme Avenue,Philadelphia + PA 19152,www.nazarethhospital.org
+ Hospitals,Nazareth Hospital,Tel: 215-335-6000,Roosevelt Boulevard at Pennypack Circle
  Hospitals,Abington Memorial Hospital,1200 Old York Road,Abington + PA 19001,Tel: 215-481-2000,www.amh.org
  Hospitals,Albert Einstein Healthcare Network,Tel: 800-346-7834,60 East Township Line Road,Elkins Park + PA 19027,Tel: 215-663-6000,www.einstein.edu
  Hospitals,Elkins Park Hospital,60 E. Township Line Road,Elkins Park + PA 19027,Tel: 215-663-6000
@@ -768,8 +761,7 @@ Attn: Jack Natanzon,Feasterville-Trevose + PA 19053,Tel: 215-357-8440
  Locks,Lockman,Tel: 267-838-9090
  Locks,Locksmith and Handyman Services,Tel: 786-282-4862
  Locks,Xpress Locksmith,1045 Frankford Avenue,Philadelphia + PA 19125,Tel: 215-274-0110,www.expresslocksmith247.com
- Malls,King of Prussia Shopping Complex,The Plaza
-160 N. Gulph Road,King of Prussia + PA 19406,Tel: 610-337-1210
+ Malls,King of Prussia Shopping Complex,The Plaza 160 N. Gulph Road,King of Prussia + PA 19406,Tel: 610-337-1210
  Malls,Neshaminy Mall,Route 1,Bensalem + PA 19020,Tel: 215-357-6100
  Malls,Oxford Valley Mall,2300 E Lincoln Highway,Langhorne + PA 19047,Tel: 215-752-0221
  Malls,Philadelphia Mills Mall,1455 Franklin Mills Circle,Philadelphia + PA 19154,Tel: 215-632-1500
@@ -821,8 +813,7 @@ Attn: Jack Natanzon,Feasterville-Trevose + PA 19053,Tel: 215-357-8440
  Money Transfers,Dnipro Co.,1916 Welsh Road,Philadelphia + PA 19115,Tel: 215-969-4985
  Money Transfers,Dosug Po-Russki,9808 Bustleton Avenue,Philadelphia + PA 19115,Tel: 215-698-8300
  Money Transfers,Meest,Tel: 800-288-9949,www.meest.us
- Money Transfers,Nikki's Check Cashing,9961 Bustleton Avenue,Philadelphia + PA 19115,Tel: 215-464-2323,Bustleton & Philmont
-14000 Bustleton Avenue,Philadelphia + PA 19115,Tel: 215-677-3098
+ Money Transfers,Nikki's Check Cashing,9961 Bustleton Avenue,Philadelphia + PA 19115,Tel: 215-464-2323,Bustleton & Philmont
  Money Transfers,Universal Travel,8300 Bustleton Avenue,Philadelphia + PA 19152,Tel: 215-725-0377
  Monuments,All American Monuments,12041 Bustleton Avenue,Philadelphia + PA 19116,T+F: 215-464-3424,www.finemonuments.com
  Monuments,Allstar Memorials and Artstones Monuments,209 Bustleton Pike,Feasterville + PA 19053,Tel: 215-322-3250,Cell: 215-622-0004,455 Parkway Drive,Broomall + PA 19008,www.allstarmemorials.com
